@@ -42,7 +42,7 @@ enum class Storage {
 enum class LightProtection {
     NONE,
     LIGHT_PROTECTED,
-    CIRITICAL_LIGHT_SENSITIVE
+    CRITICAL_LIGHT_SENSITIVE
 }
 
 enum class DrugType {

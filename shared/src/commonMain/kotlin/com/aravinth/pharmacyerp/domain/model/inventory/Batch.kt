@@ -17,5 +17,6 @@ data class Batch (
       val freightCost: Double = 0.0,
       val belongsToNlem: Boolean = false,
       val isPriceCapped: Boolean = false,
-      val shelfLife: Int,
+      val isQuarantined: Boolean = false,
+      val shelfLife: Int
       )
